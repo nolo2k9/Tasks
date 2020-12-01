@@ -37,6 +37,16 @@ The first task which is outlined as <b>Task 1</b> in my notebook is all about ca
 
 ---
 
+## Task 4
+The aim for this task is to use scikit-learn to apply k-means clustering to Fisher’s Iris data set. Then to create a markdown cell and explain how the code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
+
+### Fisher’s Iris data set
+
+Classify's iris flowers among three species (<b>setosa, versicolor, or virginica</b>) from measurements of sepals and petals' length and width.
+
+The iris data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. 
+https://www.neuraldesigner.com/learning/examples/iris-flowers-classification#TutorialVideo
+
 
 
 
