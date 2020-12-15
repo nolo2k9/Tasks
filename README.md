@@ -47,6 +47,8 @@ Classify's iris flowers among three species (<b>setosa, versicolor, or virginica
 The iris data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. 
 https://www.neuraldesigner.com/learning/examples/iris-flowers-classification#TutorialVideo
 
+The can be found under Task 4 in the notebook.
+
 
 
 
